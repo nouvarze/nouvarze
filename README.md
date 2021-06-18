@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nouvarze, Android Developer at MobileDeniz project
+- 👋 Hi, I’m @nouvarze, Android Developer at MobilDeniz project
 - 📫 How to reach me: osakalli97@gmail.com
 
 <!---
